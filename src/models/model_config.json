@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-10T20:17:55.971322",
+  "model_type": "svm",
+  "num_classes": 17,
+  "class_names": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R"
+  ],
+  "max_sequence_length": 30,
+  "feature_vector_size": 126,
+  "model_architecture": {
+    "type": "SVM",
+    "kernel": "rbf",
+    "C": 10
+  },
+  "training_history": {
+    "epochs": 1,
+    "final_accuracy": 1.0,
+    "final_val_accuracy": 0.9852941176470589
+  }
+}
